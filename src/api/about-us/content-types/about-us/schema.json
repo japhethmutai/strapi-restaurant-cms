@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "aboutus",
+  "info": {
+    "singularName": "about-us",
+    "pluralName": "aboutus",
+    "displayName": "About Us"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
